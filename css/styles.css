@@ -17,11 +17,11 @@ body {
 }
 
 .profile-pic {
-    display: block; /* Ensure image is on its own line */
-    margin-bottom: 20px; /* Add margin below */
+    display: block; 
+    margin-bottom: 20px; 
     border-radius: 50%;
-    width: 150px; /* Adjusted for better visual */
-    height: 150px; /* Adjusted for better visual */
+    width: 150px; 
+    height: 150px;
 }
 
 h1 {
@@ -46,8 +46,8 @@ a:hover {
 }
 
 .writing-list {
-    margin: 20px 0;
-    padding-left: 20px;
+    margin: 0;
+    padding-left: 0;
 }
 
 .writing-list li {
