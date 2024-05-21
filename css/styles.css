@@ -6,19 +6,19 @@ body {
     padding: 20px;
     background-color: #ffffff;
     color: #333333;
-    line-height: 1.4;
-    alignment: left
+    line-height: 1.6;
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    text-align: left; /* Ensure text is left-aligned */
 }
 
 .profile-pic {
-    float: left;
-    margin-right: 20px;
+    display: block; /* Ensure image is on its own line */
+    margin: 0 auto 20px auto; /* Center the image horizontally and add margin below */
     border-radius: 50%;
     width: 100px;
     height: 100px;
