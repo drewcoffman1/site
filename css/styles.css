@@ -18,10 +18,10 @@ body {
 
 .profile-pic {
     display: block; /* Ensure image is on its own line */
-    margin: 0 auto 20px auto; /* Center the image left and add margin below */
+    margin-bottom: 20px; /* Add margin below */
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 150px; /* Adjusted for better visual */
+    height: 150px; /* Adjusted for better visual */
 }
 
 h1 {
