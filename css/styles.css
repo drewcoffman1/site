@@ -18,7 +18,7 @@ body {
 
 .profile-pic {
     display: block; /* Ensure image is on its own line */
-    margin: 0 auto 20px auto; /* Center the image horizontally and add margin below */
+    margin: 0 auto 20px auto; /* Center the image left and add margin below */
     border-radius: 50%;
     width: 100px;
     height: 100px;
