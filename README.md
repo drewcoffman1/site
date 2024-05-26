@@ -1,5 +1,5 @@
-# gaby
-Hi, this is a simple github repo that is based off of the minimalist design of gaby.gold.
+# site
+Hi, this is a simple github repo for Fleek
 
 To start, make sure you fork this repo, and update the index.html file with the text you want to see on the site.
 
